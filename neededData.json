@@ -1,0 +1,182 @@
+[
+    {
+        "asteriodID": 0,
+        "name": "Geographos",
+        "diameter": 5.2727839755,
+        "hazardous": false,
+        "dateClosest": "2119-08-27",
+        "velocity": 12.3889920081,
+        "distance": 0.0336165502
+    },
+    {
+        "asteriodID": 1,
+        "name": "Antinous",
+        "diameter": 5.058712276,
+        "hazardous": false,
+        "dateClosest": "2094-08-13",
+        "velocity": 18.0439195607,
+        "distance": 0.1931269218
+    },
+    {
+        "asteriodID": 2,
+        "name": "Quetzalcoatl",
+        "diameter": 1.2532565376,
+        "hazardous": false,
+        "dateClosest": "2114-02-25",
+        "velocity": 14.0848378122,
+        "distance": 0.0778983246
+    },
+    {
+        "asteriodID": 3,
+        "name": "Cuyo",
+        "diameter": 7.907514169,
+        "hazardous": false,
+        "dateClosest": "2172-10-02",
+        "velocity": 14.7525246722,
+        "distance": 0.0729436116
+    },
+    {
+        "asteriodID": 4,
+        "name": "Bacchus",
+        "diameter": 2.1480282008,
+        "hazardous": false,
+        "dateClosest": "2190-06-24",
+        "velocity": 9.6164971198,
+        "distance": 0.0633823306
+    },
+    {
+        "asteriodID": 5,
+        "name": "Ra-Shalom",
+        "diameter": 3.3576852183,
+        "hazardous": false,
+        "dateClosest": "2047-05-24",
+        "velocity": 17.9974689123,
+        "distance": 0.0784068185
+    },
+    {
+        "asteriodID": 6,
+        "name": "Tantalus",
+        "diameter": 3.750075218,
+        "hazardous": false,
+        "dateClosest": "2186-12-28",
+        "velocity": 33.6128115222,
+        "distance": 0.0369610989
+    },
+    {
+        "asteriodID": 7,
+        "name": "Oljato",
+        "diameter": 5.1290859738,
+        "hazardous": false,
+        "dateClosest": "2092-03-05",
+        "velocity": 18.5923681521,
+        "distance": 0.0305559033
+    },
+    {
+        "asteriodID": 8,
+        "name": "Hathor",
+        "diameter": 0.4920848322,
+        "hazardous": false,
+        "dateClosest": "2086-10-21",
+        "velocity": 13.6563252228,
+        "distance": 0.004944506
+    },
+    {
+        "asteriodID": 9,
+        "name": "Albert",
+        "diameter": 4.529392731,
+        "hazardous": false,
+        "dateClosest": "2110-11-08",
+        "velocity": 3.4670013766,
+        "distance": 1.3899546809
+    },
+    {
+        "asteriodID": 10,
+        "name": "Alinda",
+        "diameter": 10.2338719537,
+        "hazardous": false,
+        "dateClosest": "2087-01-25",
+        "velocity": 11.268953868,
+        "distance": 0.1663253087
+    },
+    {
+        "asteriodID": 11,
+        "name": "Ivar",
+        "diameter": 16.4452310205,
+        "hazardous": false,
+        "dateClosest": "2074-08-03",
+        "velocity": 6.971316385,
+        "distance": 0.1407388669
+    },
+    {
+        "asteriodID": 12,
+        "name": "Boreas",
+        "diameter": 6.1381850734,
+        "hazardous": false,
+        "dateClosest": null,
+        "velocity": 0,
+        "distance": 0
+    },
+    {
+        "asteriodID": 13,
+        "name": "Anteros",
+        "diameter": 4.3455022465,
+        "hazardous": false,
+        "dateClosest": "2050-05-20",
+        "velocity": 5.4511564298,
+        "distance": 0.0636292152
+    },
+    {
+        "asteriodID": 14,
+        "name": "Adonis",
+        "diameter": 1.0865256386,
+        "hazardous": false,
+        "dateClosest": "2102-07-10",
+        "velocity": 24.5761696531,
+        "distance": 0.0195236704
+    },
+    {
+        "asteriodID": 15,
+        "name": "Aristaeus",
+        "diameter": 1.4589485569,
+        "hazardous": false,
+        "dateClosest": "2147-03-30",
+        "velocity": 17.0262249421,
+        "distance": 0.0297336088
+    },
+    {
+        "asteriodID": 16,
+        "name": "Eros",
+        "diameter": 49.6638037128,
+        "hazardous": false,
+        "dateClosest": "2137-01-25",
+        "velocity": 5.8142759703,
+        "distance": 0.1494623094
+    },
+    {
+        "asteriodID": 17,
+        "name": "Ganymed",
+        "diameter": 87.1043769791,
+        "hazardous": false,
+        "dateClosest": "2176-12-16",
+        "velocity": 15.749850834,
+        "distance": 0.0286835143
+    },
+    {
+        "asteriodID": 18,
+        "name": "Toro",
+        "diameter": 8.2801838305,
+        "hazardous": false,
+        "dateClosest": "2152-01-18",
+        "velocity": 14.0743310568,
+        "distance": 0.0740212591
+    },
+    {
+        "asteriodID": 19,
+        "name": "Tezcatlipoca",
+        "diameter": 10.328564805,
+        "hazardous": false,
+        "dateClosest": null,
+        "velocity": 0,
+        "distance": 0
+    }
+]
