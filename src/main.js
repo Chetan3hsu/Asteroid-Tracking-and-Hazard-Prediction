@@ -90,7 +90,7 @@ document.body.appendChild(labelRenderer.domElement) ;
 //adding asteriods to our scene
 let queue ;
 async function addAsteroids(){
-const data = await fetch("neededData.json").then(res=>res.json()) ;
+const data = await fetch("/neededData.json").then(res=>res.json()) ;
 data.sort((a,b)=>{
     return new Date(a.dateClosest) - new Date(b.dateClosest) ;
 })
